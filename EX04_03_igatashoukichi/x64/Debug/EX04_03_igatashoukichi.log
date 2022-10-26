@@ -1,0 +1,23 @@
+﻿2022/10/26 10:08:05 にビルドを開始しました。
+ログの詳細度は次のように設定されています: Normal。     1>ノード 2 上のプロジェクト "C:\Users\222e020\source\repos\EX04_03_igatashoukichi\EX04_03_igatashoukichi\EX04_03_igatashoukichi.vcxproj" (Build ターゲット)。
+     1>InitializeBuildStatus:
+         "x64\Debug\EX04_03_.c77f2ff9.tlog\unsuccessfulbuild" のタッチ タスクを実行しています。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt EX04_03_igatashoukichi.cpp getVolumeSurface.cpp
+         EX04_03_igatashoukichi.cpp
+         getVolumeSurface.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\222e020\source\repos\EX04_03_igatashoukichi\x64\Debug\EX04_03_igatashoukichi.exe" /INCREMENTAL /ILK:"x64\Debug\EX04_03_igatashoukichi.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\222e020\source\repos\EX04_03_igatashoukichi\x64\Debug\EX04_03_igatashoukichi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\222e020\source\repos\EX04_03_igatashoukichi\x64\Debug\EX04_03_igatashoukichi.lib" /MACHINE:X64 x64\Debug\EX04_03_igatashoukichi.obj
+         x64\Debug\getVolumeSurface.obj
+         EX04_03_igatashoukichi.vcxproj -> C:\Users\222e020\source\repos\EX04_03_igatashoukichi\x64\Debug\EX04_03_igatashoukichi.exe
+       FinalizeBuildStatus:
+         ファイル "x64\Debug\EX04_03_.c77f2ff9.tlog\unsuccessfulbuild" を削除しています。
+         "x64\Debug\EX04_03_.c77f2ff9.tlog\EX04_03_igatashoukichi.lastbuildstate" のタッチ タスクを実行しています。
+     1>プロジェクト "C:\Users\222e020\source\repos\EX04_03_igatashoukichi\EX04_03_igatashoukichi\EX04_03_igatashoukichi.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+    0 個の警告
+    0 エラー
+
+経過時間 00:00:00.65
